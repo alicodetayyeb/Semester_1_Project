@@ -1,2 +1,3 @@
 This is the code wrote for my semester 1 Programming Fundamentals course with C++. It is a Password generator and strength checking tool that gives passwords a strength ranking based on their split between alphabets, numbers, symbols, uppercase lowercase etc and also displays the justification of those ratings. It also generates a password of high strength based on user defined character limit. 
 v1.01
+The star patterns and other UI elements that you see are as per the Lecturer's requirement. please focus on the functionality and algorithms because i had complete creative control over that
